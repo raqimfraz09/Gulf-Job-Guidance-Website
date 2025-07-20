@@ -24,3 +24,17 @@ StepUp Placement is a professional platform built to guide job seekers intereste
         Frontend: ReactJs.
         Deployment: Hostinger.
 
+ 📸 Screenshots- 
+
+         ## 📸 Screenshots
+
+### 🏠 Homepage
+        ![Homepage](./screenshots/homepage.png)
+
+### 📄 Job Listings Page
+        ![Job Listings](./screenshots/training.png)
+
+### 📬 Contact Page
+        ![Contact](./screenshots/contact.png)
+
+
