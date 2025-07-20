@@ -3,23 +3,24 @@ Live Website: www.stepupplacement.com
 
 StepUp Placement is a professional platform built to guide job seekers interested in Gulf opportunities. It serves as a one-stop resource for finding authentic job postings, applying with confidence, and understanding the Gulf recruitment process.
 
-📌 Features
-🏢 Gulf job listings and categories
+📌 Features- 
 
-📄 Resume tips and format guides
+        🏢 Gulf job listings and categories.
 
-🌐 Visa and migration info for Gulf countries
+        📄 Resume tips and format guides.
 
-📬 Contact form for direct queries
+        🌐 Visa and migration info for Gulf countries.
 
-📱 Fully responsive design for all devices
+        📬 Contact form for direct queries.
 
-🎯 Clear guidance for fresher and experienced candidates
+        📱 Fully responsive design for all devices.
 
-🔒 Secure and user-friendly navigation
+        🎯 Clear guidance for fresher and experienced candidates.
 
-🚀 Tech Stack
-Frontend: ReactJs.
+        🔒 Secure and user-friendly navigation.
 
-Deployment: Hostinger.
+🚀 Tech Stack-
+
+        Frontend: ReactJs.
+        Deployment: Hostinger.
 
